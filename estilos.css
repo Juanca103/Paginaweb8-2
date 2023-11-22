@@ -1,0 +1,110 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("forest-g0fc2e4fa8_1280.jpg");
+    
+    background-repeat: no-repeat;
+
+
+    }
+   
+    .img{
+    
+    position: relative;
+    
+    top: 1000px;
+    
+    width: 300px;
+    
+    height: 700px;
+    
+    border-radius: 50px;
+    
+    background-repeat: no-repeat; 
+    
+    left: 700px;
+    
+    background-image: url("");
+    
+    }
+    
+    .contenedor{
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: rgb(0, 0, 0);
+    
+     
+    
+    }
+
+    .contenido{
+
+        height: 500px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 200px;
+        
+         left: 0px;
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 250px;
+        
+        width: 300px;
+        
+        margin-left: 5px;
+        
+        margin-right: 10px;
+        
+        background-image: url("forest-g0fc2e4fa8_1280.jpg");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: rgb(0, 0, 0);
+        
+        font-size: 20px;
+        
+        
+        
+        }    
+        
